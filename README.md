@@ -21,7 +21,7 @@ The project can be viewed [Influx](https://ndkshr.github.io/influx).
 
 
 ---
-
+kk
 ## Important files and expected structure of the project files
 
 Though, all files are inside one folder, they have to be structured. The **index.html** file is the only one expected to be in the root directory of the project.
